@@ -1,5 +1,5 @@
 var button = document.getElementById('button');
 
 button.addEventListener('click', function() {
-  alert('hello, world!');
+  alert('hello, this is the real world!');
 });
